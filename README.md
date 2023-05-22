@@ -76,18 +76,17 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **Aurora**: "Mode Approximation Makes Good Vision-Language Prompts", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 * **DSD**: "Discriminative Diffusion Models as Few-shot Vision and Language Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10722)]
 
-[[Back to Overview](#overview)]
 
 
 # Publications
 | Top Conference  |  Papers  |
 |  ----  | ----  |
-| 2022 | **CVPR**: [2] |
-| 2023 | **AAAI**: [3]; **CVPR**: [4] |
+| 2022 | **CVPR**:  |
+| 2023 | **AAAI**: ; **CVPR**:  |
 
 | Top Journal  |  Papers  |
 |  ----  | ----  |
-| 2022 | **IJCV**: [1] |
+| 2022 | **IJCV**:  |
 
 # Contributing & Contact
 Feel free to contribute to our repository.
