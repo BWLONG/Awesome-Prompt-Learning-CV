@@ -1,4 +1,4 @@
-# Awesome Prompt Learning
+# Awesome-Prompt-Learning-CV
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository is a collection of awesome things about **Prompt Learning**, including papers, code, etc.
@@ -6,7 +6,7 @@ This repository is a collection of awesome things about **Prompt Learning**, inc
 If you would like to contribute to our repository or have any questions/advice, see [Contributing & Contact](#contributing--contact).
 
 # Contents
-- [Awesome Prompt Learning](#Awesome Prompt Learning)
+- [Awesome Prompt Learning](#Awesome-Prompt-Learning-CV)
 - [Contents](#contents)
 - [Papers](#papers)
 - [Publications](#publications)
