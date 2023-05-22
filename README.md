@@ -6,7 +6,7 @@ This repository is a collection of awesome things about **Prompt Learning**, inc
 If you would like to contribute to our repository or have any questions/advice, see [Contributing & Contact](#contributing--contact).
 
 # Contents
-- [Awesome Prompt Learning](#Awesome-Prompt-Learning-CV)
+- [Awesome-Prompt-Learning-CV](#Awesome-Prompt-Learning-CV)
 - [Contents](#contents)
 - [Papers](#papers)
 - [Publications](#publications)
