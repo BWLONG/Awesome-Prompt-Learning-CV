@@ -75,7 +75,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **PMPO**: "Multi-Prompt with Depth Partitioned Cross-Modal Learning", arXiv, 2023 (*CAS*). [[Paper](https://arxiv.org/abs/2305.06221)]
 * **Aurora**: "Mode Approximation Makes Good Vision-Language Prompts", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 * **DSD**: "Discriminative Diffusion Models as Few-shot Vision and Language Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10722)]
-
+* **TPT**: "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models", NIPS, 2023. [[Paper](https://arxiv.org/abs/2209.07511)][[PyTorch]( https://azshue.github.io/TPT/)]
 
 
 # Publications
