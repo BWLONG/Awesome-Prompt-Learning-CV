@@ -80,7 +80,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 
 
-- ### Prompt Learning/Tuning(arxiv6月-):
+- ### Prompt Learning/Tuning(arxiv4月-):
 
 
 
