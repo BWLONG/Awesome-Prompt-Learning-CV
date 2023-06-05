@@ -76,6 +76,12 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **Aurora**: "Mode Approximation Makes Good Vision-Language Prompts", arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 * **DSD**: "Discriminative Diffusion Models as Few-shot Vision and Language Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10722)]
 * **TPT**: "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models", (*UMD*). [[NIPS 2022](https://arxiv.org/abs/2209.07511)][[PyTorch]( https://azshue.github.io/TPT/)]
+- ### Prompt Learning/Tuning(已读):
+
+
+
+- ### Prompt Learning/Tuning(arxiv6月-):
+
 
 
 # Publications
