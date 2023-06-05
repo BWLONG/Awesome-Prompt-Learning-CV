@@ -81,7 +81,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 
 - ### Prompt Learning/Tuning(arxiv4月-):
-* **XSGD**: "Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning"，arXiv，2023（*Salesforce AI*）.[[Paper](https://arxiv.org/abs/2304.01295v1)]
+* **XSGD**: "Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning",arXiv,2023(*Salesforce AI*).[[Paper](https://arxiv.org/abs/2304.01295v1)]
 
 
 
