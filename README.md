@@ -82,6 +82,8 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 - ### Prompt Learning/Tuning(arxiv4月-):
 * **XSGD**: "Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning",arXiv,2023(*Salesforce AI*).[[Paper](https://arxiv.org/abs/2304.01295v1)]
+* **SAQI**: "Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment",arXiv,2023(*IEEE*).[[Paper](https://arxiv.org/abs/2304.14672)][[Code](https://github.com/vqassessment/bvqi)]
+
 
 
 
