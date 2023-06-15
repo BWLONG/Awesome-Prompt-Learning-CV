@@ -88,6 +88,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **AutoSplice**: "A Text-prompt Manipulated Image Dataset for Media Forensics",arXiv,2023(*University at Buffalo*).[[Paper](https://arxiv.org/abs/2304.06870)][[Code](https://github.com/shanface33/autosplice_dataset)]
 * **?**: "Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization",arXiv,2023(*Meta AI*).[[Paper](https://arxiv.org/abs/2305.03937)][[Code](https://github.com/arazd/residualprompts)]
 * **BSL**: "Black-box Prompt Tuning with Subspace Learning",arXiv,2023(*Tsinghua University*).[[Paper](https://arxiv.org/abs/2305.03518)]
+* **PTP**: "Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer",arXiv,2023(*University of Maryland*).[[Paper](https://arxiv.org/abs/2305.02423)]
 
 
 
