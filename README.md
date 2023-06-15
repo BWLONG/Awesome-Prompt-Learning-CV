@@ -84,8 +84,10 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **XSGD**: "Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning",arXiv,2023(*Salesforce AI*).[[Paper](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: "Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment",arXiv,2023(*IEEE*).[[Paper](https://arxiv.org/abs/2304.14672)][[Code](https://github.com/vqassessment/bvqi)]
 * **D2CSE**: "Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings",arXiv,2023(*Samsung SDS*).[[Paper](https://arxiv.org/abs/2304.08991)]
-* **IDPT**: "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models",arXiv,2023(*Tsinghua University,Shenzhen University,Harbin Institute of Technology,Peng Cheng Laboratory*).[[Paper](https://arxiv.org/abs/2304.07221)][[Code](https://github.com/zyh16143998882/IDPT)]
-* **AutoSplice**: "A Text-prompt Manipulated Image Dataset for Media Forensics",arXiv,2023(*University at Buffalo,State University of New Yor*).[[Paper](https://arxiv.org/abs/2304.06870)][[Code](https://github.com/shanface33/autosplice_dataset)]
+* **IDPT**: "Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models",arXiv,2023(*Tsinghua University*).[[Paper](https://arxiv.org/abs/2304.07221)][[Code](https://github.com/zyh16143998882/IDPT)]
+* **AutoSplice**: "A Text-prompt Manipulated Image Dataset for Media Forensics",arXiv,2023(*University at Buffalo*).[[Paper](https://arxiv.org/abs/2304.06870)][[Code](https://github.com/shanface33/autosplice_dataset)]
+* **?**: "Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization",arXiv,2023(*Meta AI*).[[Paper](https://arxiv.org/abs/2305.03937)][[Code](https://github.com/arazd/residualprompts)]
+* **BSL**: "Black-box Prompt Tuning with Subspace Learning",arXiv,2023(*Tsinghua University*).[[Paper](https://arxiv.org/abs/2305.03518)]
 
 
 
