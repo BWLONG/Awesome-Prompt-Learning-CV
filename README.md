@@ -77,7 +77,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **DSD**: "Discriminative Diffusion Models as Few-shot Vision and Language Learners", arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10722)]
 * **TPT**: "Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models", (*UMD*). [[NIPS 2022](https://arxiv.org/abs/2209.07511)][[PyTorch]( https://azshue.github.io/TPT/)]
 - ### Prompt Learning/Tuning(已读):
-* **Tip-Adapter**："Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling",arxiv,2023(*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2304.01295v1)][[Code](https://github.com/vqassessment/bvqi](https://github.com/gaopengcuhk/tip-adapter)]
+* **Tip-Adapter**："Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling",arxiv,2023(*Shanghai AI Laboratory*). [[Paper](https://arxiv.org/abs/2304.01295v1)][[Code](https://github.com/gaopengcuhk/tip-adapter)]
 * **OOD**："Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution",arxiv,2022(*Stanford University*) [[Paper](https://arxiv.org/abs/2202.10054)]
 [[Code](https://github.com/Aaditya-Singh/Low-Shot-Robustness)]
 * **K-LITE**："K-LITE: Learning Transferable Visual Models with External Knowledge",NeurIPS,2022(*Microsoft*)[[Paper](https://openreview.net/forum?id=gERv_uy69IA)][[Code](https://github.com/microsoft/klite)]
