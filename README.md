@@ -94,6 +94,11 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **SoftCPT**："Prompt Tuning with Soft Context Sharing for Vision-Language Models",arXiv,2022(*National Laboratory of Pattern Recognition*)[[Paper](https://arxiv.org/abs/2208.13474)][[Code](https://github.com/kding1225/softcpt)]
 * **?**："Prompt-to-Prompt Image Editing with Cross Attention Control",arXiv,2022(*Google Research*)[[Paper](https://arxiv.org/abs/2208.01626)][[Code](https://github.com/google/prompt-to-prompt)]
 * **UPL**："Unsupervised Prompt Learning for Vision-Language Models",arXiv,2022(*Peking University*)[[Paper](https://arxiv.org/abs/2204.03649)][[Code](https://github.com/tonyhuang2022/UPL)]
+* **?**："Rethinking the Value of Prompt Learning for Vision-Language Models",ICLR,2023(*Chinese Academy of Sciences*)[[Paper](https://openreview.net/forum?id=1FsdIfRngtw)]
+* **SubPT**："Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models",2023,IEEE(*Chinese Academy of Sciences*)[[Paper](https://arxiv.org/abs/2211.02219)][[Code](https://github.com/machengcheng2016/Subspace-Prompt-Learning)]
+* **?**："CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet",arXiv,2022(*University of Science and Technology of China*)[[Paper](https://arxiv.org/abs/2212.06138)][[Code](https://github.com/lightdxy/ft-clip)]
+* **CLIP-like**："Delving into the Openness of CLIP",ICLR,2023(*Peking University*)[[Paper](https://openreview.net/forum?id=9OoFFWDPDQ)][[Code](https://github.com/lancopku/clip-openness)]
+* **PTP**："Position-guided Text Prompt for Vision-Language Pre-training",IEEE,2022(*National University of Singapore*)[[Paper](https://arxiv.org/abs/2212.09737)][[Code](https://github.com/sail-sg/ptp)]
 - ### Prompt Learning/Tuning(arxiv4月-):
 * **XSGD**: "Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning",arXiv,2023(*Salesforce AI*).[[Paper](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: "Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment",arXiv,2023(*IEEE*).[[Paper](https://arxiv.org/abs/2304.14672)][[Code](https://github.com/vqassessment/bvqi)]
