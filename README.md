@@ -107,6 +107,11 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **DAPL**："Domain Adaptation via Prompt Learning",arXiv,2022(*Tsinghua University*)[[Paper](https://arxiv.org/abs/2202.06687)][[Code](https://github.com/LeapLabTHU/DAPrompt)]
 * **MIRO**："Domain Generalization by Mutual-Information Regularization with Pre-trained Models",ECCV,2022(*Kakao Brain*)[[Paper](https://arxiv.org/abs/2203.10789)][[Code](https://github.com/kakaobrain/miro)]
 * **DPL**："Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains",arXiv,2021(*The University of Tokyo*)[[Paper](https://arxiv.org/abs/2111.12853)][[Code](https://github.com/shogi880/DPLCLIP)]
+* **DOT**："Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation",ACMMM,2022(*Beijing Institute of Technology*)[[Paper](https://arxiv.org/abs/2208.01195)][[Code](https://github.com/bit-da/domain-oriented-transformer)]
+* **MPA**："Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation",ICLR,2023(*Fudan University*)[[Paper](https://arxiv.org/abs/2209.15210)]
+* **PADA**："PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains",TACL,2022(*Technion - Israel Institute of Technology*)[[Paper](https://arxiv.org/abs/2102.12206)][[Code](https://github.com/eyalbd2/PADA)]
+* **DoPrompt**："Prompt Vision Transformer for Domain Generalization",arXiv,2022(*National University of Singapore*)[[Paper](https://arxiv.org/abs/2208.08914)][[Code](https://github.com/zhengzangw/DoPrompt)]
+* **DePT**："Visual Prompt Tuning for Test-time Domain Adaptation",ICLR,2023(*Rutgers University*)[[Paper](https://arxiv.org/abs/2210.04831)]
 - ### Prompt Learning/Tuning(arxiv4月-):
 * **XSGD**: "Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning",arXiv,2023(*Salesforce AI*).[[Paper](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: "Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment",arXiv,2023(*IEEE*).[[Paper](https://arxiv.org/abs/2304.14672)][[Code](https://github.com/vqassessment/bvqi)]
