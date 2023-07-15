@@ -129,6 +129,10 @@ If you would like to contribute to our repository or have any questions/advice, 
 University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **LLaVAR**: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding(*Georgia Tech*)[[arXiv 2306](https://arxiv.org/abs/2306.17107)]
 * **NPT**: Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance(*Zhejiang University*)[[arXiv 2306](https://arxiv.org/abs/2306.15955)]
+* **PromptSRC**: Self-regulating Prompts: Foundational Model Adaptation without Forgetting(*Mohamed bin Zayed University of AI*)[[arXiv 2307](https://arxiv.org/abs/2307.06948)][[Code](https://github.com/muzairkhattak/promptsrc)]
+* **ICAE**: In-context Autoencoder for Context Compression in a Large Language Model(*Microsoft*)[[arXiv 2307](https://arxiv.org/abs/2307.06945)]
+* **?**: Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks(*Conservatoire National des Arts et Métiers, CEDRIC, Paris, France*)[[arXiv 2307](https://arxiv.org/abs/2307.06795)]
+* **?**: Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models(*Instituto de Investigaci´on en Ciencias de la Computaci´on, CONICET-UBA, Argentina*)[[arXiv 2307](https://arxiv.org/abs/2307.06713)]
 
 
 
