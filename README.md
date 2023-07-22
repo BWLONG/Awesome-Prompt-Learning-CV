@@ -133,6 +133,9 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **ICAE**: In-context Autoencoder for Context Compression in a Large Language Model(*Microsoft*)[[arXiv 2307](https://arxiv.org/abs/2307.06945)]
 * **?**: Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks(*Conservatoire National des Arts et Métiers, CEDRIC, Paris, France*)[[arXiv 2307](https://arxiv.org/abs/2307.06795)]
 * **?**: Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models(*Instituto de Investigaci´on en Ciencias de la Computaci´on, CONICET-UBA, Argentina*)[[arXiv 2307](https://arxiv.org/abs/2307.06713)]
+* **LDP**: Language-driven Dual-Pixel Image Defocus Deblurring Network(*Beijing Institute of Technology*)[[arXiv 2307](https://arxiv.org/abs/2307.09815)]
+* **DVPT**: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis(*Nankai University*)[[arXiv 2307](https://arxiv.org/abs/2307.09787)]
+* **MoP-CLIP**: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning(*Ola Ahmad*)[[arXiv 2307](https://arxiv.org/abs/2307.05707)]
 
 
 
