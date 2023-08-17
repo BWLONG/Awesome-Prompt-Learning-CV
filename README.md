@@ -75,7 +75,6 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **Aurora**: Mode Approximation Makes Good Vision-Language Prompts, arXiv, 2023 (*Peking*). [[Paper](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 * **DSD**: Discriminative Diffusion Models as Few-shot Vision and Language Learners, arXiv, 2023 (*Google*). [[Paper](https://arxiv.org/abs/2305.10722)]
 * **TPT**: Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, (*UMD*). [[NIPS 2022](https://arxiv.org/abs/2209.07511)][[PyTorch]( https://azshue.github.io/TPT/)]
-- ### Prompt Learning/Tuning(已读):
 * **Tip-Adapter**：Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling(*Shanghai AI Laboratory*) [[arxiv 2304](https://arxiv.org/abs/2304.01295v1)][[PyTorch](https://github.com/gaopengcuhk/tip-adapter)]
 * **OOD**：Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution(*Stanford University*) [[arxiv 2202](https://arxiv.org/abs/2202.10054)]
 [[PyTorch](https://github.com/Aaditya-Singh/Low-Shot-Robustness)]
@@ -137,18 +136,6 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **MoP-CLIP**: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning(*Ola Ahmad*) [[arXiv 2307](https://arxiv.org/abs/2307.05707)]
 
 
-
-
-
-# Publications
-| Top Conference  |  Papers  |
-|  ----  | ----  |
-| 2022 | **CVPR**:  |
-| 2023 | **AAAI**: ; **CVPR**:  |
-
-| Top Journal  |  Papers  |
-|  ----  | ----  |
-| 2022 | **IJCV**:  |
 
 # Contributing & Contact
 Feel free to contribute to our repository.
