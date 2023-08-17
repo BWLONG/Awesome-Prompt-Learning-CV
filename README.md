@@ -16,7 +16,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences.
 
 
-- ### Prompt Learning/Tuning:
+- ### Prompt Learning/Tuning(accepted):
 * **CoOp**: Learning to Prompt for Vision-Language Models (*NTU, Singapore*) [[IJCV 2022](https://arxiv.org/pdf/2109.01134)] [[PyTorch](https://github.com/KaiyangZhou/CoOp)]
 * **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
 * **CoCoOp**: Conditional Prompt Learning for Vision-Language Models (*NTU, Singapore*) [[CVPR 2022](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/KaiyangZhou/CoOp)]
@@ -110,7 +110,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **PADA**：PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains(*Technion - Israel Institute of Technology*)[[TACL 2022](https://arxiv.org/abs/2102.12206)][[PyTorch](https://github.com/eyalbd2/PADA)]
 * **DoPrompt**：Prompt Vision Transformer for Domain Generalization(*National University of Singapore*)[[arXiv 2208](https://arxiv.org/abs/2208.08914)][[PyTorch](https://github.com/zhengzangw/DoPrompt)]
 * **DePT**：Visual Prompt Tuning for Test-time Domain Adaptation(*Rutgers University*)[[ICLR 2023](https://arxiv.org/abs/2210.04831)]
-- ### Prompt Learning/Tuning(arxiv4月-):
+- ### Prompt Learning/Tuning(arxiv):
 * **XSGD**: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning (*Salesforce AI*) [[arXiv 2304](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment(*IEEE*) [[arXiv 2304](https://arxiv.org/abs/2304.14672)] [[Pytorch](https://github.com/vqassessment/bvqi)]
 * **D2CSE**: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings(*Samsung SDS*) [[arXiv 2304](https://arxiv.org/abs/2304.08991)]
