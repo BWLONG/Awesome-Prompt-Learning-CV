@@ -134,6 +134,8 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **LDP**: Language-driven Dual-Pixel Image Defocus Deblurring Network(*Beijing Institute of Technology*) [[arXiv 2307](https://arxiv.org/abs/2307.09815)]
 * **DVPT**: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis(*Nankai University*) [[arXiv 2307](https://arxiv.org/abs/2307.09787)]
 * **MoP-CLIP**: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning(*Ola Ahmad*) [[arXiv 2307](https://arxiv.org/abs/2307.05707)]
+* **ALIP**: Adaptive Language-Image Pre-training with Synthetic Caption(*DeepGlint*) [[arXiv 2308](https://arxiv.org/abs/2308.08428)] [[Pytorch](https://github.com/deepglint/alip)]
+* **ICPC**: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation(*Alibaba Group*) [[arXiv 2308](https://arxiv.org/abs/2308.07078)]
 
 
 
