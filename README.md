@@ -139,6 +139,8 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **UEO**: Towards Realistic Unsupervised Fine-tuning with CLIP(*CASIA*) [[arXiv 2308](https://arxiv.org/abs/2308.12919)]
 * **UP-Adapter**: Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*) [[arXiv 2308](https://arxiv.org/abs/2308.11507)]
 * **KAPT**: Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models(*Qilu University of Technology*) [[arXiv 2308](https://arxiv.org/abs/2308.11186)]
+* **RPO**：Read-only Prompt Optimization for Vision-Language Few-shot Learning(*Korea University*)[[arXiv 2308](https://arxiv.org/abs/2308.14960)]
+* **UP-Adapter**："Unsupervised Prototype Adapter for Vision-Language Models"(*Southern University of Science and Technology*)[[CVPR 2023](https://arxiv.org/abs/2308.11507)][[PyTorch](https://github.com/mlvlab/RPO)]
 
 
 
