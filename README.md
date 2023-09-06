@@ -18,23 +18,16 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Prompt Learning(accepted): *Updating by Ziqi Yin*
 * **CoOp**: Learning to Prompt for Vision-Language Models (*NTU, Singapore*) [[IJCV 2022](https://arxiv.org/pdf/2109.01134)] [[PyTorch](https://github.com/KaiyangZhou/CoOp)]
-* **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
 * **CoCoOp**: Conditional Prompt Learning for Vision-Language Models (*NTU, Singapore*) [[CVPR 2022](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/KaiyangZhou/CoOp)]
-* **CTTA**: Decorate the Newcomers Visual Domain Prompt for Continual Test Time Adaptation [[AAAI 2023](https://arxiv.org/pdf/2212.04145)]
 * **MaPLe**: Multi-modal Prompt Learning [[CVPR 2023](https://arxiv.org/pdf/2210.03117)] [[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
 * **ProDA**: Prompt Distribution Learning, CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.03340)]
 * **VPT**: Visual Prompt Tuning, ECCV, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2203.12119)][[PyTorch](https://github.com/kmnp/vpt)]
 * **PerVL**: This is my unicorn, Fluffy: Personalizing frozen vision-language representations, ECCV, 2022 (*NVIDIA*). [[Paper](https://arxiv.org/abs/2204.01694)][[PyTorch](https://github.com/NVlabs/PALAVRA)]
 * **OrdinalCLIP**: OrdinalCLIP: Learning Rank Prompts for Language-Guided Ordinal Regression, NeurIPS, 2022 (*Tsinghua University*). [[Paper](https://arxiv.org/abs/2206.02338)][[PyTorch](https://github.com/xk-huang/OrdinalCLIP)]
-* **BeamCLIP**: Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching, NeurIPS, 2022 (*LG*). [[Paper](https://openreview.net/forum?id=j2Vtg_jhKZ)]
 * **CoOp**: Learning to Prompt for Vision-Language Models, IJCV, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2109.01134)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
-* **LASP**: Language-Aware Soft Prompting for Vision & Language Foundation Models, arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)][[Website](https://www.adrianbulat.com/lasp)]
-* **VPT**: Variational prompt tuning improves generalization of vision-language models, arXiv, 2022 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.02390)]
-* **CAVPT**: Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model, arXiv, 2022 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2208.08340)][[Code](https://github.com/fanrena/dpt)]
 * **Visual-Prompting**: Exploring Visual Prompts for Adapting Large-Scale Models, arXiv, 2022 (*MIT*). [[Paper](https://arxiv.org/abs/2203.17274)][[PyTorch](https://github.com/hjbahng/visual_prompting)][[Website](https://hjbahng.github.io/visual_prompting/)]
 * **PGN**: Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers, arXiv, 2022 (*University of Amsterdam*). [[Paper](https://arxiv.org/abs/2210.06466)][[PyTorch](https://github.com/jochemloedeman/PGN)]
 * **UPT**: Unified Vision and Language Prompt Learning, arXiv, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2210.07225)][[Code (in construction)](https://github.com/yuhangzang/UPT)]
-* **CPL**: CPL: Counterfactual Prompt Learning for Vision and Language Models, arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
 * **PTP**: Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models, arXiv, 2022 (*Baidu*). [[Paper](https://arxiv.org/abs/2210.10841)]
 * **TaskRes**: Task Residual for Tuning Vision-Language Models, arXiv, 2022 (*NUS*). [[Paper](https://arxiv.org/abs/2211.10277)][[Code (in construction)](https://github.com/geekyutao/TaskRes)]
 * **MVLPT**: Multitask Vision-Language Prompt Tuning, arXiv, 2022 (*Berkeley*). [[Paper](https://arxiv.org/abs/2211.11720)][[PyTorch](https://github.com/sIncerass/MVLPT)]
@@ -111,6 +104,9 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **DoPrompt**：Prompt Vision Transformer for Domain Generalization(*National University of Singapore*)[[arXiv 2208](https://arxiv.org/abs/2208.08914)][[PyTorch](https://github.com/zhengzangw/DoPrompt)]
 * **DePT**：Visual Prompt Tuning for Test-time Domain Adaptation(*Rutgers University*)[[ICLR 2023](https://arxiv.org/abs/2210.04831)]
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
+* **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
+* **VPT**: Variational prompt tuning improves generalization of vision-language models, arXiv, 2210 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.02390)]
+* **LASP**: Language-Aware Soft Prompting for Vision & Language Foundation Models, arXiv, 2210 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)][[Website](https://www.adrianbulat.com/lasp)]
 * **XSGD**: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning (*Salesforce AI*) [[arXiv 2304](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment(*IEEE*) [[arXiv 2304](https://arxiv.org/abs/2304.14672)] [[Pytorch](https://github.com/vqassessment/bvqi)]
 * **D2CSE**: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings(*Samsung SDS*) [[arXiv 2304](https://arxiv.org/abs/2304.08991)]
@@ -133,6 +129,7 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **?**: Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models(*Instituto de Investigaci´on en Ciencias de la Computaci´on, CONICET-UBA, Argentina*) [[arXiv 2307](https://arxiv.org/abs/2307.06713)]
 * **LDP**: Language-driven Dual-Pixel Image Defocus Deblurring Network(*Beijing Institute of Technology*) [[arXiv 2307](https://arxiv.org/abs/2307.09815)]
 * **DVPT**: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis(*Nankai University*) [[arXiv 2307](https://arxiv.org/abs/2307.09787)]
+* **DPT**: Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model, arXiv, 2307 (*Northwestern Polytechnical University, China*). [[Paper](https://arxiv.org/abs/2208.08340)][[Code](https://github.com/fanrena/dpt)]
 * **MoP-CLIP**: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning(*Ola Ahmad*) [[arXiv 2307](https://arxiv.org/abs/2307.05707)]
 * **ALIP**: Adaptive Language-Image Pre-training with Synthetic Caption(*DeepGlint*) [[arXiv 2308](https://arxiv.org/abs/2308.08428)] [[Pytorch](https://github.com/deepglint/alip)]
 * **ICPC**: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation(*Alibaba Group*) [[arXiv 2308](https://arxiv.org/abs/2308.07078)]
@@ -143,10 +140,13 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **UP-Adapter**：Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*)[[CVPR 2023](https://arxiv.org/abs/2308.11507)][[PyTorch](https://github.com/mlvlab/RPO)]
 
 ### CLIP Variants: *Updating by Siyu He*
+* **BeamCLIP**: Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching, NeurIPS, 2022 (*LG*). [[Paper](https://openreview.net/forum?id=j2Vtg_jhKZ)]
 
 ### In-context learning: *Updating by Yansheng Gao*
+* **CPL**: CPL: Counterfactual Prompt Learning for Vision and Language Models, arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
 
 ### Domain Adaptation + Prompt Learning: *Updating by Yongguang Li, Linbin Wang*
+* **CTTA**: Decorate the Newcomers Visual Domain Prompt for Continual Test Time Adaptation [[AAAI 2023](https://arxiv.org/pdf/2212.04145)]
 
 # Contributing & Contact
 Feel free to contribute to our repository.
