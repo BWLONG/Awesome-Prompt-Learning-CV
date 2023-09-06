@@ -84,31 +84,58 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **?**: Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization(*Meta AI*) [[arXiv 2305](https://arxiv.org/abs/2305.03937)] [[Pytorch](https://github.com/arazd/residualprompts)]
 * **BSL**: Black-box Prompt Tuning with Subspace Learning (*Tsinghua University*) [[arXiv 2305](https://arxiv.org/abs/2305.03518)]
 * **PTP**: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer (*University of Maryland*) [[arXiv 2305](https://arxiv.org/abs/2305.02423)]
+* **Instruction-ViT**: Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT (*University of Electronic Science and Technology of China*). [[arXiv 2305](https://arxiv.org/abs/2305.00201)]
+* **VPGTrans**: Transfer Visual Prompt Generator across LLMs (*NUS*). [[arXiv 2305](https://arxiv.org/abs/2305.01278)][[PyTorch](https://github.com/VPGTrans/VPGTrans)][[Website](https://vpgtrans.github.io/)]
+* **DRPT**: DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning (*Hong Kong Polytechnic University*). [[arXiv 2305](https://arxiv.org/abs/2305.01239)][[Code (in construction)](https://github.com/Forest-art/DRPT-torch)]
+* **VCoT**: Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings (*UCSB*). [[arXiv 2305](https://arxiv.org/abs/2305.02317)]
+* **PMPO**: Multi-Prompt with Depth Partitioned Cross-Modal Learning (*CAS*). [[arXiv 2305](https://arxiv.org/abs/2305.06221)]
+* **Aurora**: Mode Approximation Makes Good Vision-Language Prompts (*Peking*). [[2305](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
+* **DSD**: Discriminative Diffusion Models as Few-shot Vision and Language Learners (*Google*). [[arXiv 2305](https://arxiv.org/abs/2305.10722)]
+* **Tip-Adapter**：Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling(*Shanghai AI Laboratory*) [[arxiv 2304](https://arxiv.org/abs/2304.01295v1)][[PyTorch](https://github.com/gaopengcuhk/tip-adapter)]
 * **XSGD**: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning (*Salesforce AI*) [[arXiv 2304](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment(*IEEE*) [[arXiv 2304](https://arxiv.org/abs/2304.14672)] [[Pytorch](https://github.com/vqassessment/bvqi)]
 * **D2CSE**: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings(*Samsung SDS*) [[arXiv 2304](https://arxiv.org/abs/2304.08991)]
 * **IDPT**: Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models(*Tsinghua University*) [[arXiv 2304](https://arxiv.org/abs/2304.07221)] [[Pytorch](https://github.com/zyh16143998882/IDPT)]
 * **AutoSplice**: A Text-prompt Manipulated Image Dataset for Media Forensics(*University at Buffalo*) [[arXiv 2304](https://arxiv.org/abs/2304.06870)] [[Pytorch](https://github.com/shanface33/autosplice_dataset)]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* **POMP**: Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition (*Amazon*). [[arXiv 2304](https://arxiv.org/abs/2304.04704)][[PyTorch](https://github.com/amazon-science/prompt-pretraining)]
+* **?**: What does CLIP know about a red circle? Visual prompt engineering for VLMs (*Oxford*). [[arXiv 2304](https://arxiv.org/abs/2304.06712)]
+* **Robust-ProL**: Towards Robust Prompts on Vision-Language Models (*Google*). [[arXiv 2304](https://arxiv.org/abs/2304.08479)]
+* **ProVP**: Progressive Visual Prompt Learning with Contrastive Feature Re-formation (*vivo, China*). [[arXiv 2304](https://arxiv.org/abs/2304.08386)]
+* **?**: Chain of Thought Prompt Tuning in Vision Language Models (*Peking University*). [[arXiv 2304](https://arxiv.org/abs/2304.07919)]
+* **LION**：LION: Implicit Vision Prompt Tuning(*Peking University*)[[arXiv 2303](https://arxiv.org/abs/2303.09992)]
+* **SeMap**: From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need (*CISPA, Germany*). [[arXiv 2303](https://arxiv.org/abs/2303.05266)]
+* **R-Tuning**: R-Tuning: Regularized Prompt Tuning in Open-Set Scenarios (*Shanghai Jiao Tong*). [[arXiv 2303](https://arxiv.org/abs/2303.05122)]
+* **VPTM**: Rethinking Visual Prompt Learning as Masked Visual Token Modeling (*Shanghai Jiao Tong*). [[arXiv 2303](https://arxiv.org/abs/2303.04998)]
+* **GRAM**: Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models (*Huawei*). [[arXiv 2303](https://arxiv.org/abs/2303.06571)]
+* **PBPrompt**: Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models (*Xidian University*). [[arXiv 2303](https://arxiv.org/abs/2303.09100)]
+* **CTP-TFT**: Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models (*Baidu*). [[arXiv 2303](https://arxiv.org/abs/2303.17169)]
+* **ZPE**: A Simple Zero-shot Prompt Weighting Technique to Improve Prompt Ensembling in Text-Image Models (*Google*). [[arXiv 2302](https://arxiv.org/abs/2302.06235)]
+* **?**: Task Bias in Vision-Language Models (*Columbia*). [[arXiv 2212](https://arxiv.org/abs/2212.04412)]
+* **?**：CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet(*University of Science and Technology of China*)[[arXiv 2212](https://arxiv.org/abs/2212.06138)][[PyTorch](https://github.com/lightdxy/ft-clip)]
+* **?**：Unleashing the Power of Visual Prompting At the Pixel Level(*Shanghai Jiao Tong University*)[[arXiv 2212](https://arxiv.org/abs/2212.10556)][[Code](https://github.com/ucsc-vlaa/evp)]
+* **TaskRes**: Task Residual for Tuning Vision-Language Models (*NUS*). [[arXiv 2211](https://arxiv.org/abs/2211.10277)][[Code (in construction)](https://github.com/geekyutao/TaskRes)]
+* **MVLPT**: Multitask Vision-Language Prompt Tuning (*Berkeley*). [[arXiv 2211](https://arxiv.org/abs/2211.11720)][[PyTorch](https://github.com/sIncerass/MVLPT)]
+* **TaI-DP**: Texts as Images in Prompt Tuning for Multi-Label Image Recognition (*Tomorrow Advancing Life (TAL)*). [[arXiv 2211](https://arxiv.org/abs/2211.12739)][[PyTorch](https://github.com/guozix/TaI-DPT)]
+* **?**：Bayesian Prompt Learning for Image-Language Model Generalization(*University of Amsterdam*)[[arXiv 2210](https://arxiv.org/abs/2210.02390)]
+* **PGN**: Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers (*University of Amsterdam*). [[arXiv 2210](https://arxiv.org/abs/2210.06466)][[PyTorch](https://github.com/jochemloedeman/PGN)]
+* **UPT**: Unified Vision and Language Prompt Learning (*NTU, Singapore*). [[arXiv 2210](https://arxiv.org/abs/2210.07225)][[Code (in construction)](https://github.com/yuhangzang/UPT)]
+* **CPL**: CPL: Counterfactual Prompt Learning for Vision and Language Models (*UC Santa Cruz*). [[arXiv 2210](https://arxiv.org/abs/2210.10362)]
+* **PTP**: Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models (*Baidu*). [[arXiv 2210](https://arxiv.org/abs/2210.10841)]
+* **LASP**: Language-Aware Soft Prompting for Vision & Language Foundation Models (*Samsung*). [[arXiv 2210](https://arxiv.org/abs/2210.01115)][[Website](https://www.adrianbulat.com/lasp)]
+* **VPT**: Variational prompt tuning improves generalization of vision-language models (*Samsung*). [[arXiv 2210](https://arxiv.org/abs/2210.02390)]
+* **DoPrompt**：Prompt Vision Transformer for Domain Generalization(*National University of Singapore*)[[arXiv 2208](https://arxiv.org/abs/2208.08914)][[PyTorch](https://github.com/zhengzangw/DoPrompt)]
+* **SoftCPT**：Prompt Tuning with Soft Context Sharing for Vision-Language Models(*National Laboratory of Pattern Recognition*)[[arXiv 2208](https://arxiv.org/abs/2208.13474)][[Code](https://github.com/kding1225/softcpt)]
+* **?**：Prompt-to-Prompt Image Editing with Cross Attention Control(*Google Research*)[[arXiv 2208](https://arxiv.org/abs/2208.01626)][[Code](https://github.com/google/prompt-to-prompt)]
+* **DPT**：Dual Modality Prompt Tuning for Vision-Language(*Chinese Academy of Sciences*)[[arXiv 2208](https://arxiv.org/abs/2208.08340)][[PyTorch](https://github.com/fanrena/dpt)]
+* **CAVPT**: Class-Aware Visual Prompt Tuning for Vision-Language Pre-Trained Model (*Northwestern Polytechnical University, China*). [[arXiv 2208](https://arxiv.org/abs/2208.08340)][[Code](https://github.com/fanrena/dpt)]
+* **ProGrad**：Prompt-aligned Gradient for Prompt Tuning(*Nanyang Technological University*)[[arXiv 2205](https://arxiv.org/abs/2205.14865)][[PyTorch](https://github.com/beierzhu/prompt-align)]
+* **UPL**：Unsupervised Prompt Learning for Vision-Language Models(*Peking University*)[[arXiv 2204](https://arxiv.org/abs/2204.03649)][[Code](https://github.com/tonyhuang2022/UPL)]
+* **Visual-Prompting**: Exploring Visual Prompts for Adapting Large-Scale Models (*MIT*). [[arXiv 2203](https://arxiv.org/abs/2203.17274)][[PyTorch](https://github.com/hjbahng/visual_prompting)][[Website](https://hjbahng.github.io/visual_prompting/)]
+* **DAPL**：Domain Adaptation via Prompt Learning(*Tsinghua University*)[[arXiv 2202](https://arxiv.org/abs/2202.06687)][[Code](https://github.com/LeapLabTHU/DAPrompt)]
+* **OOD**：Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution(*Stanford University*) [[arxiv 2202](https://arxiv.org/abs/2202.10054)][[PyTorch](https://github.com/Aaditya-Singh/Low-Shot-Robustness)]
+* **AP**：Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization(*The University of Tokyo*)[[arXiv 2111](https://arxiv.org/abs/2111.12853v1)]
+* **DPL**：Domain Prompt Learning for Efficiently Adapting CLIP to Unseen Domains(*The University of Tokyo*)[[arXiv 2111](https://arxiv.org/abs/2111.12853)][[PyTorch](https://github.com/shogi880/DPLCLIP)]
+* **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
 
 ### CLIP Variants: *Updating by Siyu He*
 * **BeamCLIP**: Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching, NeurIPS, 2022 (*LG*). [[Paper](https://openreview.net/forum?id=j2Vtg_jhKZ)]
