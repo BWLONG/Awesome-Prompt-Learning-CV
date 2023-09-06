@@ -58,17 +58,21 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **DPT**: Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model(*Northwestern Polytechnical University*) [[TMM 2023](https://arxiv.org/abs/2208.08340)][[Code](https://github.com/fanrena/dpt)]
 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
-* **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
-* **VPT**: Variational prompt tuning improves generalization of vision-language models, arXiv, 2210 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.02390)]
-* **LASP**: Language-Aware Soft Prompting for Vision & Language Foundation Models, arXiv, 2210 (*Samsung*). [[Paper](https://arxiv.org/abs/2210.01115)][[Website](https://www.adrianbulat.com/lasp)]
-* **XSGD**: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning (*Salesforce AI*) [[arXiv 2304](https://arxiv.org/abs/2304.01295v1)]
-* **SAQI**: Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment(*IEEE*) [[arXiv 2304](https://arxiv.org/abs/2304.14672)] [[Pytorch](https://github.com/vqassessment/bvqi)]
-* **D2CSE**: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings(*Samsung SDS*) [[arXiv 2304](https://arxiv.org/abs/2304.08991)]
-* **IDPT**: Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models(*Tsinghua University*) [[arXiv 2304](https://arxiv.org/abs/2304.07221)] [[Pytorch](https://github.com/zyh16143998882/IDPT)]
-* **AutoSplice**: A Text-prompt Manipulated Image Dataset for Media Forensics(*University at Buffalo*) [[arXiv 2304](https://arxiv.org/abs/2304.06870)] [[Pytorch](https://github.com/shanface33/autosplice_dataset)]
-* **?**: Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization(*Meta AI*) [[arXiv 2305](https://arxiv.org/abs/2305.03937)] [[Pytorch](https://github.com/arazd/residualprompts)]
-* **BSL**: Black-box Prompt Tuning with Subspace Learning (*Tsinghua University*) [[arXiv 2305](https://arxiv.org/abs/2305.03518)]
-* **PTP**: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer (*University of Maryland*) [[arXiv 2305](https://arxiv.org/abs/2305.02423)]
+
+* **ALIP**: Adaptive Language-Image Pre-training with Synthetic Caption(*DeepGlint*) [[arXiv 2308](https://arxiv.org/abs/2308.08428)] [[Pytorch](https://github.com/deepglint/alip)]
+* **ICPC**: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation(*Alibaba Group*) [[arXiv 2308](https://arxiv.org/abs/2308.07078)]
+* **UEO**: Towards Realistic Unsupervised Fine-tuning with CLIP(*CASIA*) [[arXiv 2308](https://arxiv.org/abs/2308.12919)]
+* **UP-Adapter**: Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*) [[arXiv 2308](https://arxiv.org/abs/2308.11507)]
+* **KAPT**: Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models(*Qilu University of Technology*) [[arXiv 2308](https://arxiv.org/abs/2308.11186)]
+* **RPO**：Read-only Prompt Optimization for Vision-Language Few-shot Learning(*Korea University*)[[arXiv 2308](https://arxiv.org/abs/2308.14960)]
+* **UP-Adapter**：Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*)[[arXiv 2308](https://arxiv.org/abs/2308.11507)][[PyTorch](https://github.com/mlvlab/RPO)]
+* **PromptSRC**: Self-regulating Prompts: Foundational Model Adaptation without Forgetting(*Mohamed bin Zayed University of AI*) [[arXiv 2307](https://arxiv.org/abs/2307.06948)] [[Pytorch](https://github.com/muzairkhattak/promptsrc)]
+* **ICAE**: In-context Autoencoder for Context Compression in a Large Language Model(*Microsoft*)[[arXiv 2307](https://arxiv.org/abs/2307.06945)]
+* **?**: Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks(*Conservatoire National des Arts et Métiers, CEDRIC, Paris, France*) [[arXiv 2307](https://arxiv.org/abs/2307.06795)]
+* **?**: Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models(*Instituto de Investigaci´on en Ciencias de la Computaci´on, CONICET-UBA, Argentina*) [[arXiv 2307](https://arxiv.org/abs/2307.06713)]
+* **LDP**: Language-driven Dual-Pixel Image Defocus Deblurring Network(*Beijing Institute of Technology*) [[arXiv 2307](https://arxiv.org/abs/2307.09815)]
+* **DVPT**: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis(*Nankai University*) [[arXiv 2307](https://arxiv.org/abs/2307.09787)]
+* **MoP-CLIP**: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning(*Ola Ahmad*) [[arXiv 2307](https://arxiv.org/abs/2307.05707)]
 * **MuDPT**: Multi-modal Deep-symphysis Prompt Tuning for Large Pre-trained Vision-Language Models (*College of Computer Science and Technology,changsha*) [[arXiv 2306](https://arxiv.org/abs/2306.11400)]
 * **DIFFender**: Diffusion-Based Adversarial Defense against Patch Attacks in the Physical World (*Institute of Artificial Intelligence, Beihang University*) [[arXiv 2306](https://arxiv.org/abs/2306.09124)]
 * **?**: Soft-prompt Tuning for Large Language Models to Evaluate Bias(*Vector Institute for AI*) [[arXiv 2306](https://arxiv.org/abs/2306.04735)]
@@ -77,20 +81,34 @@ If you would like to contribute to our repository or have any questions/advice, 
 University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **LLaVAR**: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding(*Georgia Tech*)[[arXiv 2306](https://arxiv.org/abs/2306.17107)]
 * **NPT**: Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance(*Zhejiang University*)[[arXiv 2306](https://arxiv.org/abs/2306.15955)]
-* **PromptSRC**: Self-regulating Prompts: Foundational Model Adaptation without Forgetting(*Mohamed bin Zayed University of AI*) [[arXiv 2307](https://arxiv.org/abs/2307.06948)] [[Pytorch](https://github.com/muzairkhattak/promptsrc)]
-* **ICAE**: In-context Autoencoder for Context Compression in a Large Language Model(*Microsoft*)[[arXiv 2307](https://arxiv.org/abs/2307.06945)]
-* **?**: Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks(*Conservatoire National des Arts et Métiers, CEDRIC, Paris, France*) [[arXiv 2307](https://arxiv.org/abs/2307.06795)]
-* **?**: Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models(*Instituto de Investigaci´on en Ciencias de la Computaci´on, CONICET-UBA, Argentina*) [[arXiv 2307](https://arxiv.org/abs/2307.06713)]
-* **LDP**: Language-driven Dual-Pixel Image Defocus Deblurring Network(*Beijing Institute of Technology*) [[arXiv 2307](https://arxiv.org/abs/2307.09815)]
-* **DVPT**: Dynamic Visual Prompt Tuning of Large Pre-trained Models for Medical Image Analysis(*Nankai University*) [[arXiv 2307](https://arxiv.org/abs/2307.09787)]
-* **MoP-CLIP**: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning(*Ola Ahmad*) [[arXiv 2307](https://arxiv.org/abs/2307.05707)]
-* **ALIP**: Adaptive Language-Image Pre-training with Synthetic Caption(*DeepGlint*) [[arXiv 2308](https://arxiv.org/abs/2308.08428)] [[Pytorch](https://github.com/deepglint/alip)]
-* **ICPC**: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation(*Alibaba Group*) [[arXiv 2308](https://arxiv.org/abs/2308.07078)]
-* **UEO**: Towards Realistic Unsupervised Fine-tuning with CLIP(*CASIA*) [[arXiv 2308](https://arxiv.org/abs/2308.12919)]
-* **UP-Adapter**: Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*) [[arXiv 2308](https://arxiv.org/abs/2308.11507)]
-* **KAPT**: Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models(*Qilu University of Technology*) [[arXiv 2308](https://arxiv.org/abs/2308.11186)]
-* **RPO**：Read-only Prompt Optimization for Vision-Language Few-shot Learning(*Korea University*)[[arXiv 2308](https://arxiv.org/abs/2308.14960)]
-* **UP-Adapter**：Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*)[[CVPR 2023](https://arxiv.org/abs/2308.11507)][[PyTorch](https://github.com/mlvlab/RPO)]
+* **?**: Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization(*Meta AI*) [[arXiv 2305](https://arxiv.org/abs/2305.03937)] [[Pytorch](https://github.com/arazd/residualprompts)]
+* **BSL**: Black-box Prompt Tuning with Subspace Learning (*Tsinghua University*) [[arXiv 2305](https://arxiv.org/abs/2305.03518)]
+* **PTP**: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer (*University of Maryland*) [[arXiv 2305](https://arxiv.org/abs/2305.02423)]
+* **XSGD**: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning (*Salesforce AI*) [[arXiv 2304](https://arxiv.org/abs/2304.01295v1)]
+* **SAQI**: Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment(*IEEE*) [[arXiv 2304](https://arxiv.org/abs/2304.14672)] [[Pytorch](https://github.com/vqassessment/bvqi)]
+* **D2CSE**: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings(*Samsung SDS*) [[arXiv 2304](https://arxiv.org/abs/2304.08991)]
+* **IDPT**: Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models(*Tsinghua University*) [[arXiv 2304](https://arxiv.org/abs/2304.07221)] [[Pytorch](https://github.com/zyh16143998882/IDPT)]
+* **AutoSplice**: A Text-prompt Manipulated Image Dataset for Media Forensics(*University at Buffalo*) [[arXiv 2304](https://arxiv.org/abs/2304.06870)] [[Pytorch](https://github.com/shanface33/autosplice_dataset)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### CLIP Variants: *Updating by Siyu He*
 * **BeamCLIP**: Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching, NeurIPS, 2022 (*LG*). [[Paper](https://openreview.net/forum?id=j2Vtg_jhKZ)]
