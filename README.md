@@ -138,7 +138,21 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
 
 ### CLIP Variants: *Updating by Siyu He*
-* **BeamCLIP**: Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching, NeurIPS, 2022 (*LG*). [[Paper](https://openreview.net/forum?id=j2Vtg_jhKZ)]
+* **VL-T5**: Unifying Vision-and-Language Tasks via Text Generation(UNC Chapel Hill).[[ICML 2021](https://arxiv.org/abs/2102.02779)] [[PyTorch](https://github.com/j-min/VL-T5)]
+* **DenseCLIP**: DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting(Tsinghua University).[[CVPR 2022](https://arxiv.org/abs/2112.01518)] [[PyTorch](https://github.com/raoyongming/DenseCLIP)]
+* **BeamCLIP**: Transferring Pre-trained Multimodal Representations with Cross-modal Similarity Matching (*LG*). [[NeurIPS 2022](https://openreview.net/forum?id=j2Vtg_jhKZ)]
+* **UniCLIP**: UniCLIP: Unified Framework for Contrastive Language-Image Pre-training(LG AI Research).[[NeurIPS 2022](https://arxiv.org/abs/2209.13430)]
+* **FLIP**: Scaling Language-Image Pre-training via Masking(*Meta AI*).[[CVPR 2023](https://arxiv.org/abs/2212.00794)] [[Pytorch](https://github.com/facebookresearch/flip)]
+* **MaskCLIP**: MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining(*USTC*).[[CVPR 2023](https://arxiv.org/abs/2208.12262)] [[PyTorch](https://github.com/LightDXY/MaskCLIP)]
+* **Frozen**: Multimodal Few-Shot Learning with Frozen Language Models(DeepMind).[[arXiv 2106](https://arxiv.org/abs/2106.13884)]
+* **CPT**: CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models(Tsinghua University).[[arXiv 2109](https://arxiv.org/abs/2109.11797)] [[PyTorch](https://github.com/thunlp/CPT)]
+* **MAnTiS**: Multimodal Conditionality for Natural Language Generation.[[arXiv 2109](https://arxiv.org/abs/2109.01229)]
+* **CAE v2**:CAE v2: Context Autoencoder with CLIP Targets(Baidu VIS).[[arXiv 2211](https://arxiv.org/abs/2211.09799)]
+* **A-CLIP**: Attentive Mask CLIP(Microsoft Research Asia).[[arXiv 2212](https://arxiv.org/abs/2212.08653)]
+* **EVA-CLIP**: EVA-CLIP: Improved Training Techniques for CLIP at Scale(Beijing Academy of Artificial Intelligence).[[arXiv 2303](https://arxiv.org/abs/2303.15389)] [[PyTorch](https://github.com/baaivision/EVA/tree/master/EVA-CLIP)]
+* **LaCLIP**: Improving CLIP Training with Language Rewrites(*Google*).[[arXiv 2305](https://arxiv.org/abs/2305.20088)] [[PyTorch](https://github.com/LijieFan/LaCLIP)]
+* **DLIP**: DLIP: Distilling Language-Image Pre-training(Xiamen University).[[arXiv 2308](https://arxiv.org/abs/2308.12956)]
+* **ALIP**: ALIP: Adaptive Language-Image Pre-training with Synthetic Caption(DeepGlint).[[arXiv 2308](https://arxiv.org/abs/2308.08428)] [[PyTorch](https://github.com/deepglint/ALIP)]
 
 ### In-context learning: *Updating by Yansheng Gao*
 * **CPL**: CPL: Counterfactual Prompt Learning for Vision and Language Models, arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
