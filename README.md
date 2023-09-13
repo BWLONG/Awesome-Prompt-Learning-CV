@@ -16,7 +16,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences.
 
 
-### Prompt Learning(accepted): *Updating by Ziqi Yin*
+### Prompt Learning(accepted): *Updating by Linbin Wang*
 * **CoOp**: Learning to Prompt for Vision-Language Models (*NTU, Singapore*) [[IJCV 2022](https://arxiv.org/pdf/2109.01134)] [[PyTorch](https://github.com/KaiyangZhou/CoOp)]
 * **CoCoOp**: Conditional Prompt Learning for Vision-Language Models (*NTU, Singapore*) [[CVPR 2022](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/KaiyangZhou/CoOp)]
 * **MaPLe**: Multi-modal Prompt Learning [[CVPR 2023](https://arxiv.org/pdf/2210.03117)] [[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
@@ -160,7 +160,7 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 ### In-context learning: *Updating by Yansheng Gao*
 * **CPL**: CPL: Counterfactual Prompt Learning for Vision and Language Models, arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
 
-### Domain Adaptation + Prompt Learning: *Updating by Yongguang Li, Linbin Wang*
+### Domain Adaptation + Prompt Learning: *Updating by Yongguang Li*
 * **CTTA**: Decorate the Newcomers Visual Domain Prompt for Continual Test Time Adaptation [[AAAI 2023](https://arxiv.org/pdf/2212.04145)]
 * **AP**：Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization(*The University of Tokyo*)[[arXiv 2111](https://arxiv.org/abs/2111.12853v1)]
 * **DAPL**：Domain Adaptation via Prompt Learning(*Tsinghua University*)[[arXiv 2202](https://arxiv.org/abs/2202.06687)][[Code](https://github.com/LeapLabTHU/DAPrompt)]
