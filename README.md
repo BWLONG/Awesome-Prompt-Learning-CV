@@ -59,6 +59,8 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
 
+* **?** Language Models as Black-Box Optimizers for Vision-Language Models(*CMU*) [[arXiv 2309](https://arxiv.org/abs/2309.05950)]
+* **PRE**: Vision-Language Prompt Learning with Reparameterization Encoder(*QMUL*)[[arXiv 2309](https://arxiv.org/abs/2309.07760)] [[Pytorch](https://github.com/minhanh151/respro)]
 * **LoGoPrompt**: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models(*School of Information Science and Technology, ShanghaiTech University*)[[arXiv 2309](https://arxiv.org/abs/2309.01155)]
 * **?**: Image-Object-Specific Prompt Learning for Few-Shot Class-Incremental Learning(*Kaist Advanced Institute of Science and Technology*) [[arXiv 2309](https://arxiv.org/abs/2309.02833)]
 * **DuAl-PT**: Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment(*Shanghai Jiao Tong University*) [[arXiv 2309](https://arxiv.org/abs/2309.04158)]
