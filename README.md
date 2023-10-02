@@ -178,6 +178,7 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **IPL**：Zero-Shot Generative Model Adaptation via Image-Specific Prompt Learning(*Tsinghua University*)[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Zero-Shot_Generative_Model_Adaptation_via_Image-Specific_Prompt_Learning_CVPR_2023_paper.html)][[PyTorch](https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation)]
 * **DomainGen**：CLIP the Gap: A Single Domain Generalization Approach for Object Detection(*CVLab, EPFL*)[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Vidit_CLIP_the_Gap_A_Single_Domain_Generalization_Approach_for_Object_CVPR_2023_paper.pdf)][[PyTorch](https://github.com/vidit09/domaingen)]
 * **RADA-prompt**：Domain Prompt Tuning via Meta Relabeling for Unsupervised Adversarial Adaptation(*Eastern Institute of Technology*)[[TMM 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10115031)]
+* **AD-CLIP**:AD-CLIP: Adapting Domains in Prompt Space Using CLIP (Indian Institute of Technology Bombay)[[arxiv 2308](https://arxiv.org/abs/2308.05659)]
 # Contributing & Contact
 Feel free to contribute to our repository.
 
