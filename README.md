@@ -59,6 +59,9 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
 
+* **DA-CLIP**: Controlling Vision-Language Models for Universal Image Restoration(*Uppsala University*) [[arXiv 2310](https://arxiv.org/abs/2310.01018)]
+* **FedTPG**: Text-driven Prompt Generation for Vision-Language Models in Federated Learning(*Bosch Center for AI*) [[arXiv 2310](https://arxiv.org/abs/2310.06123)]
+* **AutoCLIP**: Auto-tuning Zero-Shot Classifiers for Vision-Language Models(*Bosch Center for Artificial Intelligence*) [[arXiv 2309](https://arxiv.org/abs/2309.16414)]
 * **?**: Tuning Multi-mode Token-level Prompt Alignment across Modalities(*Xidian University*) [arXiv 2309](https://arxiv.org/pdf/2309.13847)]
 * **BPT**：CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval(*Shenzhen International Graduate Schoo*) [[arXiv 2309](https://arxiv.org/abs/2309.09496)]
 * **?**：Language Models as Black-Box Optimizers for Vision-Language Models(*CMU*) [[arXiv 2309](https://arxiv.org/abs/2309.05950)]
