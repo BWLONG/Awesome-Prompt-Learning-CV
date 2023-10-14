@@ -167,6 +167,8 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 
 ### In-context learning: *Updating by Yansheng Gao*
 * **CPL**: CPL: Counterfactual Prompt Learning for Vision and Language Models, arXiv, 2022 (*UC Santa Cruz*). [[Paper](https://arxiv.org/abs/2210.10362)]
+* **Oscar** Multimodal Few-Shot Learning with Frozen Language Models, Nips, 2021 (DeepMind). [[paper](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)]
+* **HierKD** Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language, CVPR, 2022 (MAIS & NLPR). [[paper](https://arxiv.org/abs/2203.10593)] [[Pytorch](https://github.com/mengqiDyangge/HierKD)]
 
 ### Domain Adaptation + Prompt Learning: *Updating by Yongguang Li*
 * **CTTA**: Decorate the Newcomers Visual Domain Prompt for Continual Test Time Adaptation [[AAAI 2023](https://arxiv.org/pdf/2212.04145)]
