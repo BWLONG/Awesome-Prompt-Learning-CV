@@ -59,6 +59,8 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
 
+* **?**: Prompting Scientific Names for Zero-Shot Species Recognition(*Texas A&M University*) [[arXiv 2310](https://arxiv.org/abs/2310.09929)]
+* **CXR-CLIP**: Toward Large Scale Chest X-ray Language-Image Pre-training (*Kakaobrain*) [[arXiv 2310](https://arxiv.org/abs/2310.13292)]
 * **FGPrompt**: Fine-grained Goal Prompting for Image-goal Navigation(*South China University of Technology*) [[arXiv 2310](https://arxiv.org/abs/2310.07473)]
 * **DA-CLIP**: Controlling Vision-Language Models for Universal Image Restoration(*Uppsala University*) [[arXiv 2310](https://arxiv.org/abs/2310.01018)]
 * **FedTPG**: Text-driven Prompt Generation for Vision-Language Models in Federated Learning(*Bosch Center for AI*) [[arXiv 2310](https://arxiv.org/abs/2310.06123)]
