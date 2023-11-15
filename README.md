@@ -73,6 +73,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **LoGoPrompt**: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models(*School of Information Science and Technology, ShanghaiTech University*)[[arXiv 2309](https://arxiv.org/abs/2309.01155)]
 * **?**: Image-Object-Specific Prompt Learning for Few-Shot Class-Incremental Learning(*Kaist Advanced Institute of Science and Technology*) [[arXiv 2309](https://arxiv.org/abs/2309.02833)]
 * **DuAl-PT**: Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment(*Shanghai Jiao Tong University*) [[arXiv 2309](https://arxiv.org/abs/2309.04158)]
+* **DPL**: Decoupled Prompt Learning for Vision-Language Models(*Nanjing University*) [[arXiv 2308](https://arxiv.org/abs/2308.10061)]
 * **ALIP**: Adaptive Language-Image Pre-training with Synthetic Caption(*DeepGlint*) [[arXiv 2308](https://arxiv.org/abs/2308.08428)] [[Pytorch](https://github.com/deepglint/alip)]
 * **ICPC**: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation(*Alibaba Group*) [[arXiv 2308](https://arxiv.org/abs/2308.07078)]
 * **UEO**: Towards Realistic Unsupervised Fine-tuning with CLIP(*CASIA*) [[arXiv 2308](https://arxiv.org/abs/2308.12919)]
