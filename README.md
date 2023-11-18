@@ -56,6 +56,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **CLIP-like**：Delving into the Openness of CLIP(*Peking University*)[[ICLR 2023](https://openreview.net/forum?id=9OoFFWDPDQ)][[Code](https://github.com/lancopku/clip-openness)]
 * **PTP**：Position-guided Text Prompt for Vision-Language Pre-training(*National University of Singapore*)[[IEEE 2022](https://arxiv.org/abs/2212.09737)][[PyTorch](https://github.com/sail-sg/ptp)]
 * **DPT**: Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model(*Northwestern Polytechnical University*) [[TMM 2023](https://arxiv.org/abs/2208.08340)][[Code](https://github.com/fanrena/dpt)]
+* **PROTO-CLIP**:PROTO-CLIP: Vision-Language Prototypical Network for Few-Shot Learning(*The University of Texas at Dallas*)[[arXiv 2307](https://arxiv.org/abs/2307.03073)][[Code](https://github.com/IRVLUTD/Proto-CLIP)]
 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
 
