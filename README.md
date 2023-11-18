@@ -192,6 +192,8 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **RADA-prompt**：Domain Prompt Tuning via Meta Relabeling for Unsupervised Adversarial Adaptation(*Eastern Institute of Technology*)[[TMM 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10115031)]
 * **AD-CLIP**:AD-CLIP: Adapting Domains in Prompt Space Using CLIP (Indian Institute of Technology Bombay)[[arxiv 2308](https://arxiv.org/abs/2308.05659)]
 * **PADCLIP** : PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_PADCLIP_Pseudo-labeling_with_Adaptive_Debiasing_in_CLIP_for_Unsupervised_Domain_ICCV_2023_paper.pdf)]
+* **PromptStyler** : PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_PromptStyler_Prompt-driven_Style_Generation_for_Source-free_Domain_Generalization_ICCV_2023_paper.html)]
+* Open-Set Domain Adaptation with Visual-Language Foundation Models[[arXiv 2307](https://arxiv.org/abs/2307.16204)]
 # Contributing & Contact
 Feel free to contribute to our repository.
 
