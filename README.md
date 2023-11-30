@@ -97,6 +97,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **LLaVAR**: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding(*Georgia Tech*)[[arXiv 2306](https://arxiv.org/abs/2306.17107)]
 * **NPT**: Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance(*Zhejiang University*)[[arXiv 2306](https://arxiv.org/abs/2306.15955)]
+* **SADA**:  Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment(*Beihang University*)[arXiv 2305](https://arxiv.org/abs/2305.11439)][Pytorch](https://github.com/bhrqw/sada)]
 * **?**: Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization(*Meta AI*) [[arXiv 2305](https://arxiv.org/abs/2305.03937)] [[Pytorch](https://github.com/arazd/residualprompts)]
 * **BSL**: Black-box Prompt Tuning with Subspace Learning (*Tsinghua University*) [[arXiv 2305](https://arxiv.org/abs/2305.03518)]
 * **PTP**: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer (*University of Maryland*) [[arXiv 2305](https://arxiv.org/abs/2305.02423)]
