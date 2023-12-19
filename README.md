@@ -61,6 +61,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
 
 * **?**: Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization(*Mohamed Bin Zayed University of AI*) [[arXiv 2311](https://arxiv.org/abs/2311.01459)] [[Pytorch](https://github.com/jameelhassan/PromptAlign)]
+* **FD-Align**: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning (*SCCE*) [[arXiv 2310](https://arxiv.org/abs/2310.15105)] [[Pytorch](https://github.com/skingorz/FD-Align)]
 * **?**: Prompting Scientific Names for Zero-Shot Species Recognition(*Texas A&M University*) [[arXiv 2310](https://arxiv.org/abs/2310.09929)]
 * **CXR-CLIP**: Toward Large Scale Chest X-ray Language-Image Pre-training (*Kakaobrain*) [[arXiv 2310](https://arxiv.org/abs/2310.13292)]
 * **FGPrompt**: Fine-grained Goal Prompting for Image-goal Navigation(*South China University of Technology*) [[arXiv 2310](https://arxiv.org/abs/2310.07473)]
@@ -108,6 +109,7 @@ University of California*)[[arXiv 2306](https://arxiv.org/abs/2306.02240)]
 * **PMPO**: Multi-Prompt with Depth Partitioned Cross-Modal Learning (*CAS*). [[arXiv 2305](https://arxiv.org/abs/2305.06221)]
 * **Aurora**: Mode Approximation Makes Good Vision-Language Prompts (*Peking*). [[2305](https://arxiv.org/abs/2305.08381)][[PyTorch](https://github.com/WillDreamer/Aurora)]
 * **DSD**: Discriminative Diffusion Models as Few-shot Vision and Language Learners (*Google*). [[arXiv 2305](https://arxiv.org/abs/2305.10722)]
+* **APE**: Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement(*City University of Hong Kong*) [[arXiv 2304](https://arxiv.org/abs/2304.01195)] [[Pytorch](https://github.com/yangyangyang127/ape)]
 * **XSGD**: Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning (*Salesforce AI*) [[arXiv 2304](https://arxiv.org/abs/2304.01295v1)]
 * **SAQI**: Towards Rebust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment(*IEEE*) [[arXiv 2304](https://arxiv.org/abs/2304.14672)] [[Pytorch](https://github.com/vqassessment/bvqi)]
 * **D2CSE**: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings(*Samsung SDS*) [[arXiv 2304](https://arxiv.org/abs/2304.08991)]
