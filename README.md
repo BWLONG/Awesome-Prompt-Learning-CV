@@ -84,6 +84,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * **RPO**：Read-only Prompt Optimization for Vision-Language Few-shot Learning(*Korea University*)[[arXiv 2308](https://arxiv.org/abs/2308.14960)]
 * **UP-Adapter**：Unsupervised Prototype Adapter for Vision-Language Models(*Southern University of Science and Technology*)[[arXiv 2308](https://arxiv.org/abs/2308.11507)][[PyTorch](https://github.com/mlvlab/RPO)]
 * **PromptSRC**: Self-regulating Prompts: Foundational Model Adaptation without Forgetting(*Mohamed bin Zayed University of AI*) [[arXiv 2307](https://arxiv.org/abs/2307.06948)] [[Pytorch](https://github.com/muzairkhattak/promptsrc)]
+* **VDP-Adapter** :Enhancing CLIP with GPT-4 Harnessing Visual Descriptions as Prompts (*Dublin City University*)[[arXiv 2307](https://arxiv.org/abs/2307.11661)] [[Pytorch](https://github.com/mayug/VDT-Adapter)]
 * **ICAE**: In-context Autoencoder for Context Compression in a Large Language Model(*Microsoft*)[[arXiv 2307](https://arxiv.org/abs/2307.06945)]
 * **?**: Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks(*Conservatoire National des Arts et Métiers, CEDRIC, Paris, France*) [[arXiv 2307](https://arxiv.org/abs/2307.06795)]
 * **?**: Unsupervised Calibration through Prior Adaptation for Text Classification using Large Language Models(*Instituto de Investigaci´on en Ciencias de la Computaci´on, CONICET-UBA, Argentina*) [[arXiv 2307](https://arxiv.org/abs/2307.06713)]
