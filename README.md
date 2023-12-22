@@ -60,6 +60,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Prompt Learning(arxiv): *Updating by Jiajia Zhang*
 
+* **LAMM**: Label Alignment for Multi-Modal Prompt Learning(*Shanghai Jiao Tong University*) [[arXiv 2312](https://arxiv.org/abs/2312.08212)] [[Pytorch](https://github.com/gaojingsheng/LAMM)]
 * **?**: Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization(*Mohamed Bin Zayed University of AI*) [[arXiv 2311](https://arxiv.org/abs/2311.01459)] [[Pytorch](https://github.com/jameelhassan/PromptAlign)]
 * **FD-Align**: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning (*SCCE*) [[arXiv 2310](https://arxiv.org/abs/2310.15105)] [[Pytorch](https://github.com/skingorz/FD-Align)]
 * **?**: Prompting Scientific Names for Zero-Shot Species Recognition(*Texas A&M University*) [[arXiv 2310](https://arxiv.org/abs/2310.09929)]
